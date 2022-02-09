@@ -14,11 +14,11 @@ html {
 body {
     min-height: 100vh;
     width: 100%;
-    background: #11101d;
+    background: #174d29;
 }
 
 ::selection {
-    color: #11101d;
+    color: #174d29;
     background: #fff;
 }
 .container{
